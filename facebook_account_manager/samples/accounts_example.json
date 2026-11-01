@@ -1,0 +1,16 @@
+[
+  {
+    "nickname": "Page Admin — Brand A",
+    "profile_id": "100000000000001",
+    "group": "Work",
+    "tags": "page,brand",
+    "notes": "Authorized page admin account. Session left empty — log in manually."
+  },
+  {
+    "nickname": "Personal (authorized)",
+    "profile_id": "",
+    "group": "Personal",
+    "tags": "personal",
+    "notes": "Example only. Do not put real cookies in shared samples."
+  }
+]
